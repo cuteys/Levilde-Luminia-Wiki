@@ -11,7 +11,8 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.38.0"
+    "rspress": "^1.38.0",
+    "rspress-plugin-reading-time": "^0.3.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.3",

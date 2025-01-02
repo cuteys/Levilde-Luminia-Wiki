@@ -8,8 +8,8 @@
   },
   {
     "type": "dir",
-    "name": "Use-and-Play",
-    "label": "使用与播放",
+    "name": "Register-and-Use",
+    "label": "注册与使用",
     "collapsible": true,
     "collapsed": false
   }

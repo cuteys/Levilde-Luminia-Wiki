@@ -10,8 +10,8 @@ hero:
       text: 立刻开始
       link: /Guide/Get-Started/introduction
     - theme: alt
-      text: 使用与播放
-      link: /Guide/Use-and-Play/Android
+      text: 注册与使用
+      link: /Guide/Register-and-Use/Register
   image:
     src: /rspress-icon.png
     alt: Logo
