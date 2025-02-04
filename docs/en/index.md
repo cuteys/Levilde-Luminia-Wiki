@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /Guide/Get-Started/introduction
+      link: /Guide/Get-Started/Introduction
     - theme: alt
       text: Use and play
       link: /Guide/Use-and-Play/Android

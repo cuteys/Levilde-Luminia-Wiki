@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 立刻开始
-      link: /Guide/Get-Started/introduction
+      link: /Guide/Get-Started/Introduction
     - theme: alt
       text: 注册与使用
       link: /Guide/Register-and-Use/Register

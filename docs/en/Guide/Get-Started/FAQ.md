@@ -1,7 +1,7 @@
-# FAQ
+# Frequently Asked Questions
 
-## 1.  目前没有兼容的流
+## **1. No Compatible Streams Available**
 
-- **通过浏览器访问网页播放**
+### 1. Accessing Web Playback through Browser
 
-  这通常出现在使用浏览器播放的情况下，大多数浏览器在音视频/字幕解码中有兼容性问题，需要 Emby 客户端或第三方播放器才能播放。
+This usually occurs when using a browser for playback. Most browsers have compatibility issues with audio/video/subtitle decoding, and an Emby client or third-party player is required for playback.
