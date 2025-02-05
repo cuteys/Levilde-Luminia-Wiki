@@ -19,7 +19,7 @@ If you are on a **special list**, you can **consult support personnel** for high
 
 ### 1. When submitting feedback, please ensure the following:
 
-- I have read the [**documentation**](https://lalawiki.cynn.top/)
+- I have read the [**documentation**](https://levilde.cynn.top/)
 - I have confirmed that I have not submitted duplicate feedback
 - I have confirmed that the issue is with **Levilde Luminia**, and not due to network, dependencies, or other factors
 - I have confirmed that the issue has not been fixed in the latest version
